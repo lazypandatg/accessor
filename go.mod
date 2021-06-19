@@ -1,4 +1,4 @@
-module gitee.com/dwdcth/accessor
+module https://github.com/lazypandatg/accessor
 
 go 1.12
 
