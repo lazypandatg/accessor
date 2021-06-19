@@ -234,7 +234,6 @@ func ParseStruct(file *ast.File, fileSet *token.FileSet, tagName string) (struct
 			return true
 		}
 		fileInfos := make([]StructFieldInfo, 0)
-
 		for _, field := range s.Fields.List {
 			log.Println(field)
 			if len(field.Names) == 0 {
