@@ -1,4 +1,4 @@
-module https://github.com/lazypandatg/accessor
+module github.com/lazypandatg/accessor
 
 go 1.12
 
